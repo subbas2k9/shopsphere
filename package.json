@@ -1,0 +1,21 @@
+﻿{
+  "name": "shopsphere-standalone",
+  "version": "1.0.0",
+  "description": "ShopSphere - Modern Standalone React.js E-Commerce Platform (Vercel Ready)",
+  "scripts": {
+    "dev": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "preview": "cd frontend && npm run preview",
+    "install:all": "cd frontend && npm install"
+  },
+  "keywords": [
+    "ecommerce",
+    "react",
+    "vite",
+    "tailwind",
+    "standalone",
+    "vercel"
+  ],
+  "author": "ShopSphere Team",
+  "license": "MIT"
+}
